@@ -1,0 +1,15 @@
+{
+  "name": "easykash-task",
+  "version": "1.0.0",
+  "description": "MEAN stack technical task",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed Tarek",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}

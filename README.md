@@ -1,2 +1,2 @@
-# MEAN-stack-task
-EasyKash MEAN stack technical tasck
+# MEAN-Stack-Technical-Task
+EasyKash MEAN Stack technical task
