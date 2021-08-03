@@ -45,12 +45,12 @@ router.get('/transactions',(req,res)=>{
 });
 app.use(router);
 // createTransactions();
-// db.sequelize.sync().then(()=>{
+db.sequelize.sync().then(()=>{
     console.log("database connected successfully");
     app.listen(port, host,()=>{
         console.log(`server listennig at http://${host}:${port}`);
         
     });
-// });
+});
 
 
