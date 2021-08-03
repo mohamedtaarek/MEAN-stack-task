@@ -1,6 +1,6 @@
 import express from 'express';
-import config from '../config/default';
-import db from '../models';
+import config from './config/default';
+import db from './models';
 
 const port = config.port;
 const host = config.host;
