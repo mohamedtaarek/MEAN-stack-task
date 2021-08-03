@@ -5,7 +5,7 @@ export const transactions = [
         image: "",
         price : 300,
         sellerID: 490,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 1200,
@@ -13,7 +13,7 @@ export const transactions = [
         image: "",
         price : 10000,
         sellerID: 430,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 394,
@@ -21,7 +21,7 @@ export const transactions = [
         image: "",
         price : 20000,
         sellerID: 290,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 909,
@@ -29,14 +29,14 @@ export const transactions = [
         image: "",
         price : 100000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },{
         id: 898,
         title: "ballons",
         image: "",
         price : 600,
         sellerID: 490,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 403,
@@ -44,7 +44,7 @@ export const transactions = [
         image: "",
         price : 20000,
         sellerID: 432,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3999,
@@ -52,7 +52,7 @@ export const transactions = [
         image: "",
         price : 1000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3930,
@@ -60,7 +60,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3931,
@@ -68,7 +68,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3932,
@@ -76,7 +76,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3933,
@@ -84,7 +84,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3934,
@@ -92,7 +92,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3935,
@@ -100,7 +100,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3936,
@@ -108,7 +108,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3937,
@@ -116,7 +116,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3938,
@@ -124,7 +124,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3939,
@@ -132,7 +132,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3940,
@@ -140,7 +140,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3941,
@@ -148,7 +148,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3942,
@@ -156,7 +156,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3943,
@@ -164,7 +164,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3944,
@@ -172,7 +172,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3945,
@@ -180,7 +180,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3946,
@@ -188,7 +188,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3947,
@@ -196,7 +196,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     },
     {
         id: 3948,
@@ -204,7 +204,7 @@ export const transactions = [
         image: "",
         price : 3000,
         sellerID: 1000,
-        lastUpdated: new Date()
+        last_updated: new Date()
     }
 
 ]
