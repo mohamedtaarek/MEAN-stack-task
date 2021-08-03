@@ -10,6 +10,7 @@ CREATE TABLE transactions(
 	title 	varchar(30) not null,
 	image	varchar(100),
 	price	float(5,3) not null,
+    sellerID int not null,
 	last_updated	timestamp DEFAULT now() ON UPDATE now()
     );
 
