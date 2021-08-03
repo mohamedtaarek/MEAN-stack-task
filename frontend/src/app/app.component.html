@@ -1,0 +1,11 @@
+<div class="container">
+  <app-header></app-header>
+  <div class="searchBar">
+    <app-tex-box labelText="seller ID" type="number"></app-tex-box>
+    <app-tex-box labelText="Range" type="date"></app-tex-box>
+    <app-button color="green" text="search" (btnClick)="search()"></app-button>
+  </div>
+  <div>
+    <app-transactions></app-transactions>
+  </div>
+</div>

@@ -35,7 +35,7 @@ router.get('/transactions',(req,res)=>{
             offset: offset
         })
         .then((result: any)=>{
-            res.status(200).send({data:result});
+            res.status(200).send({data:result,paging:{total:result.length,current_page:page,per_page}});
         }).catch((err: any)=>{
             console.log('error: ' + err);
             res.sendStatus(404)

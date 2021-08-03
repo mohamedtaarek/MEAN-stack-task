@@ -1,0 +1,23 @@
+<div class="deck">
+  <div *ngFor="let transaction of transactions" class="card">
+    <table>
+      <tr>
+        <td>
+          <p>{{ transaction.id }}</p>
+        </td>
+        <td>
+          <p>{{ transaction.title }}</p>
+        </td>
+        <td>
+          <p>{{ transaction.price }}</p>
+        </td>
+        <td>
+          <p>{{ transaction.sellerID }}</p>
+        </td>
+        <td>
+          <p>{{ transaction.last_updated }}</p>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
